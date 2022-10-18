@@ -8,15 +8,18 @@
 
 ### 工具下载
 
+[链接](https://lrjlsg.github.io/gq)
 [Dev C++ 5.1.2 下载（官方直源）](https://freefr.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe)
 
 ### 博客
 
-博科构建中......
+博客构建中......
 
 ### 关注我们
 
 推特：https://twitter.com/linhunhun1
+
+github:https://github.com/lrjlsg
 
 by 汤圆（lrj)
 
