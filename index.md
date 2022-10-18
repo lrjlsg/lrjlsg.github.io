@@ -16,7 +16,7 @@
 
 ### 关注我们
 
-推特：https://twitter.com/linhunhun1
+推特:https://twitter.com/linhunhun1
 
 github:https://github.com/lrjlsg
 
