@@ -20,8 +20,12 @@
 
 github:https://github.com/lrjlsg
 
-by 汤圆（lrj)
+### 关于网站
 
-网页版本：beta1.1
+网页版本：beta1.2
+
+[更新日志](https://lrjlsg.github.io/gx)
+
+by 汤圆（lrj)
 
 2022.10.18
