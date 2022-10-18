@@ -17,4 +17,6 @@
 
 [落尘之木迅雷](https://www.52pojie.cn/thread-1333739-1-1.html)
 
+[回到首页](https://lrjlsg.github.io)
+
 2022.10.18 晚上8:30 发布
