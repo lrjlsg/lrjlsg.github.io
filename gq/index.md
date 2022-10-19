@@ -21,4 +21,8 @@
 
 [回到首页](https://lrjlsg.github.io)
 
+# github
+
+[fastgithub下载](https://github.com/dotnetcore/FastGithub/releases/download/2.1.4/fastgithub_win-x64.zip)
+
 2022.10.18 晚上8:30 发布
