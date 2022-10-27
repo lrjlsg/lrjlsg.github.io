@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>个人主页登陆</title>
+<script language=javascript>
+function toopen(){
+    if(document.getElementById("password").value=="apple"){
+           document.forms[0].action="https://lrjlsg.github.io/20221026/apple";
+           return true;
+        }else{
+        alert("密码不正确！")
+        return false;
+        }
+    }
+</script>
+</head>
+<body class="img">
+    <div class="wrapper">
+        <div class="loginBox">
+            <div class="loginBoxCenter">
+<form method="post" action="index.html" name="myform" >
+                                <p><label for="username">用户名：</label></p>
+                <p>wanglian666</p>
+                <p><label for="password">密码：</p>
+                <p><input type="password" id="password" name="password" class="loginInput" placeholder="请输入密码" value="" 
+ 
+/></p>         </div>
+            <div class="loginBoxButtons">
+                <input type="submit" value="登陆" class="loginBtn" onclick="return toopen();">            
+                     </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
