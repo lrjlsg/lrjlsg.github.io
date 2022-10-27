@@ -1,23 +1,32 @@
-<script type="text/javascript">   
-function password() {   
-var testV = 1;   
-var pass1 = prompt('请输入密码','');   
-while (testV < 3) {   
-if (!pass1)   
-history.go(-1);   
-if (pass1 == "apple168") {//初始密码123   
-alert('密码正确');   
-break; 
-  <body onload="parent.location=' http://lrjlsg.github.io' ">
-}   
-testV+=1;   
-var pass1 =   
-prompt('密码错误!请重新输入:');   
-}   
-if (pass1!="password" & testV ==3)   
-history.go(-1);   
-return " ";   
-}   
-document.write(password());   
-</script>  
-<!--下面添加你要显示的内容或者代码-->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>密码确认</title>
+</head>
+<body >
+<form>
+输入户名： <input type="text" name="name"/>
+<P>输入密码： <input type="password" name="pw" id="pw1"/></P>
+<p>确认密码： <input type="password" name="pw" id="pw2" onkeyup="validate()"/><span id="tishi"></span></p>
+<p><input type="submit" value="注册" id="submit"/>
+<input type="reset" value="重置"/></p>
+</form>
+<script>
+function validate() {
+var pw1 = document.getElementById("pw1").value;
+var pw2 = document.getElementById("pw2").value;
+if(pw1 == pw2) {
+document.getElementById("tishi").innerHTML="<font color='green'>两次密码相同</font>";
+document.getElementById("submit").disabled = false;
+}
+else {
+document.getElementById("tishi").innerHTML="<font color='red'>两次密码不相同</font>";
+document.getElementById("submit").disabled = true;
+}
+}
+</script>
+
+</body>
+
+</html>
