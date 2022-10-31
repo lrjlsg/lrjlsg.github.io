@@ -1,5 +1,5 @@
 # 隐藏页面
-## 再见极域
+## 再见极域(废弃)
 
 再见极域蓝奏云:https://www.lanzoui.com/i1y0zje
 
