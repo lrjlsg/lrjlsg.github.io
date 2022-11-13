@@ -26,4 +26,3 @@ beta 1.0主要更新如下：
 
 [回到首页](https://lrjlsg.github.io)
 
-[彩蛋(私有)](https://lrjlsg.github.io/20221026/)
