@@ -10,6 +10,10 @@
 
 [链接](https://lrjlsg.github.io/gq)
 
+### 信息库
+
+[链接](https://lrjlsg.github.io/xinxk)
+
 ### 博客
 
 博客构建中......
