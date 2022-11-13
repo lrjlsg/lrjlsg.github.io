@@ -22,10 +22,10 @@ github:https://github.com/lrjlsg
 
 ### 关于网站
 
-网页版本：beta1.4
+网页版本：beta1.5
 
 [更新日志](https://lrjlsg.github.io/gx)
 
 by 汤圆
 
-2022.11.1
+2022.11.13
