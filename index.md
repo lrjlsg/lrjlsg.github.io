@@ -16,7 +16,7 @@
 
 ### 博客
 
-博客构建中......
+洛谷博客现已上线！可访问[点击访问](https://www.luogu.com.cn/blog/lianruijie)
 
 ### 关注我们
 
@@ -32,4 +32,4 @@ github:https://github.com/lrjlsg
 
 by 汤圆
 
-2022.11.13
+2022.11.29
