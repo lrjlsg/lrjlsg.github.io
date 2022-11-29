@@ -16,7 +16,7 @@
 
 ### 博客
 
-洛谷博客现已上线！可访问[点击访问](https://www.luogu.com.cn/blog/lianruijie)
+洛谷博客现已上线！可访问[点击访问](https://www.luogu.com.cn/blog/lianruijie/)
 
 ### 关注我们
 
