@@ -25,4 +25,6 @@
 
 [fastgithub下载](https://github.com/dotnetcore/FastGithub/releases/download/2.1.4/fastgithub_win-x64.zip)
 
-2022.10.18 晚上8:30 发布
+所有链接都将跳转至外部网页(第三方),当前网页将不做任何形式的承诺和保证。
+
+2022.11.29 傍晚5:29 发布
