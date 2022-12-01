@@ -21,6 +21,12 @@
 
 [回到首页](https://lrjlsg.github.io)
 
+# 火狐
+
+注意:https://blog.csdn.net/zhouyanbinAotearoa/article/details/125570682
+
+下载广告拦截:https://ghproxy.com/https://github.com/AdguardTeam/AdguardBrowserExtension/releases/download/v4.1.46/firefox.zip
+
 # github
 
 [fastgithub下载](https://github.com/dotnetcore/FastGithub/releases/download/2.1.4/fastgithub_win-x64.zip)
