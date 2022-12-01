@@ -27,6 +27,8 @@
 
 下载广告拦截:https://ghproxy.com/https://github.com/AdguardTeam/AdguardBrowserExtension/releases/download/v4.1.46/firefox.zip
 
+步骤:https://baijiahao.baidu.com/s?id=1728050053832435553&wfr=spider&for=pc
+
 # github
 
 [fastgithub下载](https://github.com/dotnetcore/FastGithub/releases/download/2.1.4/fastgithub_win-x64.zip)
