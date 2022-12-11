@@ -6,7 +6,7 @@
 
 [点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
 
-搬运自互联网,未加改动。
+网页文件搬运自互联网,未加改动。
 
 ### 工具下载
 
