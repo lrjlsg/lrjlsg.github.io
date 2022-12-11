@@ -28,7 +28,7 @@ github:https://github.com/lrjlsg
 
 ### 关于网站
 
-网页版本：beta1.5
+网页版本：Release1.1
 
 [更新日志](https://lrjlsg.github.io/gx)
 
