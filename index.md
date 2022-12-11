@@ -2,6 +2,10 @@
 
 我的座右铭是谦虚是学习的朋友，自满是学习的敌人。
 
+### 三体
+
+[点击访问](https://lrjlsg.github.io/xinxk/threebody/home.html)
+
 [访问百度](https://baidu.com)
 
 [访问青柠起始页](https://limestart.cn)
