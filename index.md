@@ -4,11 +4,9 @@
 
 ### 三体
 
-[点击访问](https://lrjlsg.github.io/xinxk/threebody/home.html)
+[点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
 
-[访问百度](https://baidu.com)
-
-[访问青柠起始页](https://limestart.cn)
+搬运自互联网,未加改动。
 
 ### 工具下载
 
