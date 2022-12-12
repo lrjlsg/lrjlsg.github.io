@@ -6,6 +6,6 @@
 
 ## 公开信息
 
-无
+[Markdown 基本语法](https://markdown.com.cn/basic-syntax/] 创建人:外部导入
 
 [回到主页](https://lrjlsg.github.io)
