@@ -10,3 +10,5 @@
 蓝奏云:https://wwp.lanzouw.com/inUTi0ex4o9a 密码：f230
 
 本网页下载:https://lrjlsg.github.io/20221026/wangchenlrj/JiYuTrainer.exe
+
+123云盘:https://www.123pan.com/s/Xt70Vv-Cagxh 提取码:船
