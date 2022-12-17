@@ -2,6 +2,8 @@
 
 我的座右铭是谦虚是学习的朋友，自满是学习的敌人。
 
+疫情防控,人人有责,大家挺住!
+
 ### 三体
 
 [点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
