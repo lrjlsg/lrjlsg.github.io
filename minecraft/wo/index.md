@@ -10,6 +10,10 @@
 
 [运行库安装](https://www.microsoft.com/zh-CN/download/details.aspx?id=21)
 
+## 其他
+
+[判断系统版本](https://jingyan.baidu.com/article/a3aad71a015547b1fb009623.html)
+
 请安装后,在安装java,最后打开启动器!
 
 2022.12.17 更新
