@@ -4,6 +4,8 @@
 
 疫情防控,人人有责,大家挺住!
 
+阳过的滋味不好受。
+
 ### 三体
 
 [点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
@@ -36,4 +38,6 @@ github:https://github.com/lrjlsg
 
 by 汤圆
 
-2022.12.11
+祝大家过个好年
+
+2022.12.29
