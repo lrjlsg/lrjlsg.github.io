@@ -14,8 +14,8 @@
 
 [判断系统版本](https://jingyan.baidu.com/article/a3aad71a015547b1fb009623.html)
 
-## 小白入门(下载整合包)
+## minecraft资源
 
-https://www.123pan.com/s/Xt70Vv-VJgxh 提取码:9333
+https://www.123pan.com/s/Xt70Vv-UFgxh 提取码:moss
 
-2023.1.5 更新
+2023.2.3 更新
