@@ -2,7 +2,7 @@
 
 我的座右铭是谦虚是学习的朋友，自满是学习的敌人。
 
-阳过的滋味不好受。
+兔年快乐！
 
 ### 三体
 
@@ -20,7 +20,9 @@
 
 ### 博客
 
-洛谷博客现已上线！可访问[点击访问](https://www.luogu.com.cn/blog/lianruijie/)
+洛谷博客现已上线！[点击访问](https://www.luogu.com.cn/blog/lianruijie/)
+
+小破站:https://space.bilibili.com/1568356426?spm_id_from=333.1007.0.0
 
 ### 关注我们
 
@@ -28,16 +30,16 @@
 
 github:https://github.com/lrjlsg
 
+小破站:https://space.bilibili.com/1568356426?spm_id_from=333.1007.0.0
+
 ### 关于网站
 
-网页版本：Releases1.1
+网页版本：Releases1.2
 
 [更新日志](https://lrjlsg.github.io/gx)
 
 by 汤圆
 
-祝大家过个好年
-
 此网站已稳定运行一年
 
-2023.1.5
+2023.2.5
