@@ -12,6 +12,6 @@
 
 [三体黑暗森林法则](https://lrjlsg.github.io/hei/)
 
-[编程资料](lrjlsg.github.io/xinxk/bc/)
+[编程资料](https://lrjlsg.github.io/xinxk/bc/)
 
 [回到主页](https://lrjlsg.github.io)
