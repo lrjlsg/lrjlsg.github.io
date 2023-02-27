@@ -4,6 +4,8 @@
 
 兔年快乐！
 
+喜报:我获得了县信息竞赛一等奖!
+
 ### 三体
 
 [点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
