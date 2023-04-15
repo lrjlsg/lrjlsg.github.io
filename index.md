@@ -2,6 +2,8 @@
 
 我的座右铭是谦虚是学习的朋友，自满是学习的敌人。
 
+科学上网v2订阅:https://raw.fastgit.org/freefq/free/master/v2
+
 兔年快乐！
 
 喜报:我获得了县信息竞赛一等奖!
