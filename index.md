@@ -32,10 +32,8 @@ github:https://github.com/lrjlsg
 
 网页版本：1.2
 
-[更新日志](https://lrjlsg.github.io/gx)
-
-by 汤圆
+[更新日志(停用)](https://lrjlsg.github.io/gx)
 
 此网站已稳定运行一年
 
-2023.2.5
+2023.5.20
