@@ -21,6 +21,8 @@
 
 [回到首页](https://lrjlsg.github.io)
 
+科学上网v2订阅:https://raw.fastgit.org/freefq/free/master/v2
+
 # 火狐
 
 注意:https://blog.csdn.net/zhouyanbinAotearoa/article/details/125570682
@@ -35,4 +37,4 @@
 
 所有链接都将跳转至外部网页(或第三方),当前网页将不做任何形式的承诺和保证。
 
-2022.11.29 傍晚5:29 发布
+2023.5.20 下午13:41 发布
