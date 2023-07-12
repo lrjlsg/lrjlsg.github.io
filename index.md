@@ -10,7 +10,7 @@
 
 [链接](https://lrjlsg.github.io/gq)
 
-[我的世界速玩]https://lrjlsg.github.io/minecraft/WebMC-master/index.html
+[我的世界速玩](https://lrjlsg.github.io/minecraft/WebMC-master/index.html)
 
 ### 信息库
 
