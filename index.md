@@ -1,7 +1,5 @@
 ## 欢迎来到小汤圆的网站
 
-好消息:最近弄了个二级域名,lrjlsg.e6c.cc,可用该网址来访问!
-
 ### 三体
 
 [点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
