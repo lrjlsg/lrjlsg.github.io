@@ -1,20 +1,20 @@
 ## 欢迎来到小汤圆的网站
 
+本网站最近一次更新为:2023.7.21
+
 ### 三体
 
 [点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
 
 网页文件搬运自互联网,未加改动。
 
-### 工具下载
-
-[链接](https://lrjlsg.github.io/gq)
-
-[我的世界速玩](https://lrjlsg.github.io/minecraft/WebMC-master/index.html)
-
 ### 信息库
 
 [链接](https://lrjlsg.github.io/xinxk)
+
+[实用工具链接](https://lrjlsg.github.io/gq)
+
+[我的世界速玩](https://lrjlsg.github.io/minecraft/WebMC-master/index.html)
 
 ### 博客
 
@@ -34,14 +34,12 @@ github:https://github.com/lrjlsg
 
 小破站:https://space.bilibili.com/1568356426?spm_id_from=333.1007.0.0
 
+[关于我](https://lrjlsg.github.io/guan/)
+
 ### 关于网站
 
-网页版本：1.2
+网页版本：2.0
 
-[更新日志(停用)](https://lrjlsg.github.io/gx)
+[更新日志](https://lrjlsg.github.io/gx)
 
 此网站已稳定运行一年
-
-2023.7.21
-
-<a href="https://icp.gov.moe/?keyword=20230732" target="_blank">萌ICP备20230732号</a>
