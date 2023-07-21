@@ -42,6 +42,6 @@ github:https://github.com/lrjlsg
 
 此网站已稳定运行一年
 
-2023.5.20
+2023.7.21
 
 <a href="https://icp.gov.moe/?keyword=20230732" target="_blank">萌ICP备20230732号</a>
