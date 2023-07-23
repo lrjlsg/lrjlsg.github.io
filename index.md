@@ -20,7 +20,7 @@
 
 洛谷博客现已上线！[点击访问](https://www.luogu.com.cn/blog/lianruijie/)
 
-汤圆博客正开发中......
+已构建成功!访问lrjlsg.github.io/blog/index.html
 
 小破站:https://space.bilibili.com/1568356426?spm_id_from=333.1007.0.0
 
