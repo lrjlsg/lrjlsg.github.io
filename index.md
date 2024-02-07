@@ -1,6 +1,8 @@
 ## 欢迎来到小汤圆的网站
 
-本网站最近一次更新为:2023.7.21
+新年快乐!
+
+本网站最近一次更新为:2024.2.7
 
 ### 三体
 
@@ -20,13 +22,7 @@
 
 洛谷博客现已上线！[点击访问](https://www.luogu.com.cn/blog/lianruijie/)
 
-已构建成功!访问lrjlsg.github.io/blog/index.html
-
 小破站:https://space.bilibili.com/1568356426?spm_id_from=333.1007.0.0
-
-### 友情赞助
-
-安吉学而优
 
 ### 关注我们
 
