@@ -4,8 +4,6 @@
 
 本网站最近一次更新为:2024.2.7
 
-![111](https://pic.imgdb.cn/item/65c3584b9f345e8d030f16aa.png)
-
 ### 三体
 
 [点击访问](https://lrjlsg.github.io/xinxk/threebody/index.html)
