@@ -4,7 +4,9 @@
 
 [Mythware](https://lrjlsg.github.io/20221026) 创建者:admin
 
-[Minecraft](https://lrjlsg.github.io/minecraft)
+## 半私有信息
+
+[Minecraft](https://lrjlsg.github.io/minecraft/wo/index.md)
 
 ## 公开信息
 
