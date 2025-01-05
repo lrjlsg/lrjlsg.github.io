@@ -6,7 +6,7 @@
 
 ## 半私有信息
 
-[Minecraft](https://lrjlsg.github.io/minecraft/wo/index.md)
+[Minecraft](https://lrjlsg.github.io/minecraft/wo/index.html)
 
 ## 公开信息
 
